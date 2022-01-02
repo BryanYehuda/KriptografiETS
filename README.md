@@ -1,4 +1,4 @@
-# KriptografiETS
+# Kriptografi ETS
 
 ## English
 This repository was created to fulfill the ETS Assignment of the ITS Cryptography Course    
